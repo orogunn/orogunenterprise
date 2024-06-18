@@ -1,0 +1,9 @@
+body{
+    display: grid;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: darkgoldenrod;
+}
+.headings{
+    font-family: cursive;
+}
